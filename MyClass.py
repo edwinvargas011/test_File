@@ -6,7 +6,6 @@ from sklearn.preprocessing import StandardScaler
 import math
 
 t_ex = np.ones((2,3));
-random_num=np.random.randint(10);
 size=np.size(t_ex);
 dim=np.ndim(t_ex);
 print(t_ex);
